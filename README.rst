@@ -17,7 +17,6 @@ Installation
 
 1. ``igem install oatmeal``, or just put ``serialport.rb`` somewhere
 in your ``LOAD_PATH``.
-
 2. That's it!
 
 Usage
