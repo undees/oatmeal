@@ -4,7 +4,7 @@ Oatmeal
 
 Oatmeal, "Just enough Iron in your Serial," is a Ruby library that
 provides a minimal wrapper around the .NET System.IO.Ports API for
-IronRuby_.  It mimics the ``read`` and ``write`` methods from its more
+IronRuby_.  It mimics the ``read``, ``write`` and ``readline`` methods from its more
 full-featured cousin, the serialport_ Ruby library.
 
 Prerequisites
